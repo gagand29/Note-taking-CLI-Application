@@ -20,7 +20,7 @@ Note-taking CLI Application is a command-line interface tool built with Node.js 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/note-taking-cli-application.git
+   git clone https://github.com/gagand29/note-taking-cli-application.git
    ```
 2. Install dependencies:
    ```
